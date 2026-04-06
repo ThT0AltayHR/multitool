@@ -34,7 +34,7 @@ Aşağıdaki komutları **sırayla terminale yapıştırarak** kurulumu gerçekl
 
 ```bash
 sudo apt update && sudo apt upgrade
-git clone 
+git clone https://github.com/ThT0AltayHR/multitool.git
 chmod 777 sexettintool
 cd sexettintool
 python3 metfora.py
@@ -310,12 +310,8 @@ CVE Numarasından Bilgi Toplama: Circl servisinin API anahtarını kullanarak CV
 
 Aşağıdaki platformlardan geliştirici **Sexettin** ile iletişime geçebilirsiniz:
 
-* 📱 **Telegram (kişisel):** [@FurkanDe](https://t.me/FurkanDe)
-* 📢 **Telegram Kanalı:** [t.me/sexettin](https://t.me/sexettin)
-* 💬 **Discord (kullanıcı adı):** `Sexettin`
-* 🌐 **Discord Sunucusu:** [discord.com/invite/DTN5RSvYvw](https://discord.com/invite/DTN5RSvYvw)
-* 📸 **Instagram:** [@Sexettin](https://instagram.com/Sexettin)
-* 🔍 **Diğer bağlantılar için:** [Google'da ara](https://www.google.com/search?q=sexettin)
+* 📱 **Telegram (kişisel):** [@FurkanDe](https://t.me/AltayHR)
+* 🔍 **Diğer bağlantılar için:** [Google'da ara](https://www.google.com/search?q=THT)
 
 ---
 
