@@ -35,8 +35,8 @@ Aşağıdaki komutları **sırayla terminale yapıştırarak** kurulumu gerçekl
 ```bash
 sudo apt update && sudo apt upgrade
 git clone https://github.com/ThT0AltayHR/multitool.git
-chmod 777 sexettintool
-cd sexettintool
+chmod 777 multitool
+cd multitool
 python3 metfora.py
 ```
 
