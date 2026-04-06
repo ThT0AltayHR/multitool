@@ -5,12 +5,15 @@
 
 ### ❗ Kullanıcıya Bildiri
 
+BU ARAÇ ÖZEL LİSANSA YAPTIRIMLARA TABİDİR KENDİYMİŞ GİBİ KULLANIM İZİNSİZ KABUL EDİLEMEZ ARAÇ KODLARI OZEL OLARAK İZİNLE DEĞİŞTİRİLİP YENİDEN TASARLANMIŞTIR İLETİŞİM İÇİN ARAÇTA BULUNAN İLETİŞİM MENÜSÜNE BAKABİLİRSİNİZ
+
+
 Bu araçla gerçekleştireceğiniz tüm işlemlerin **sorumluluğu tamamen size aittir**.
-Geliştirici, Leafyet Studio ve GitHub platformu hiçbir hukuki veya etik yükümlülük kabul etmez.
+Geliştirici, Türk hack team yeraltı timi ve GitHub platformu hiçbir hukuki veya etik yükümlülük kabul etmez.
 
 ### 🛠️ Geliştirici Hakkında
 
-**Sexettintool**, Leafyet Studio’nun kurucusu **Sexettin** tarafından hazırlanmıştır.
+**Sexettintool**, yeraltı studio’nun kurucusu **AltayHR** tarafından hazırlanmıştır.
 Geliştirme süreci boyunca etik değerlere ve eğitim odaklı kullanıma öncelik verilmiştir.
 
 ---
@@ -31,7 +34,7 @@ Aşağıdaki komutları **sırayla terminale yapıştırarak** kurulumu gerçekl
 
 ```bash
 sudo apt update && sudo apt upgrade
-git clone https://github.com/sexettin78/sexettintool
+git clone 
 chmod 777 sexettintool
 cd sexettintool
 python3 metfora.py
